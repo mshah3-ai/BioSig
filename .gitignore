@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Python
 __pycache__/
 *.py[cod]
@@ -31,3 +32,20 @@ figures/*.selected_raw_i32
 # OS files
 .DS_Store
 Thumbs.db
+=======
+__pycache__/
+*.pyc
+*.pyo
+*.bsg
+*.csv
+*.h5
+*.gz
+.venv/
+.env/
+dist/
+build/
+*.egg-info/
+.pytest_cache/
+figures/*.png
+figures/*.csv
+>>>>>>> 605a52fd2cc2d25d6fbc4496062f13d25ea0a3e0
