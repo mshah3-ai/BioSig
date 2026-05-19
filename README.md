@@ -144,7 +144,7 @@ Benchmarks were generated on Sleep-EDF recordings using 3 selected channels.
 
 ### Storage Comparison
 
-![Storage Comparison](figures/storage_comparison.png)
+![Storage Comparison](figures/compression_comparison.png)
 
 BioSig achieves nearly 2× lossless compression relative to raw storage while remaining fully seekable and streaming-friendly.
 
