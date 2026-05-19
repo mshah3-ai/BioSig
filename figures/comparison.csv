@@ -1,0 +1,5 @@
+method,size_mb,compression_ratio_vs_raw
+raw selected channels,97.16033935546875,1.0
+gzip raw selected channels,39.462706565856934,2.4620799689277195
+biosig,50.13711357116699,1.9378925597213483
+HDF5 gzip selected channels,40.66133499145508,2.3895019525523904

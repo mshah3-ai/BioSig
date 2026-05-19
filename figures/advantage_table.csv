@@ -1,0 +1,5 @@
+method,size_mb,avg_random_window_read_seconds,seekable,streamable,simple,biosignal_aware
+raw selected channels,97.16033935546875,1.4659995213150978e-06,yes,yes,yes,no
+gzip raw selected channels,39.462706565856934,0.4719360479991883,no,limited,yes,no
+biosig,50.13711357116699,7.723400020040572e-05,yes,yes,yes,yes
+HDF5 gzip selected channels,40.66133499145508,0.0002568520000204444,yes,limited,no,no

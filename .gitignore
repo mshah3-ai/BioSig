@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Pytest
+.pytest_cache/
+
+# VS Code
+.vscode/
+
+# Generated BioSig files
+*.bsg
+
+# Generated large benchmark files
+figures/*.h5
+figures/*.gz
+figures/*.selected_raw_i32
+
+# OS files
+.DS_Store
+Thumbs.db
